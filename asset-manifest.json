@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Insure-Landing-page/static/css/main.39c2a4de.css",
+    "main.js": "/Insure-Landing-page/static/js/main.b4811422.js",
+    "static/media/imageintrodesktop.jpg": "/Insure-Landing-page/static/media/imageintrodesktop.2f3429f63753a67e322b.jpg",
+    "static/media/imageintromobile.jpg": "/Insure-Landing-page/static/media/imageintromobile.8b8c3185ce1388b2bb9e.jpg",
+    "static/media/logo.svg": "/Insure-Landing-page/static/media/logo.b84080a147fc2d2276186c0349edfeec.svg",
+    "static/media/bgpatternmobilenav.svg": "/Insure-Landing-page/static/media/bgpatternmobilenav.b2fceba3d85314c104868fce09cd879c.svg",
+    "static/media/bgpatternhowweworkdesktop.svg": "/Insure-Landing-page/static/media/bgpatternhowweworkdesktop.eb268c33d9921cd960db6b6ffa65c644.svg",
+    "static/media/bgpatternintroleftdesktop.svg": "/Insure-Landing-page/static/media/bgpatternintroleftdesktop.3a425b38f5531b055de49ec32822cf8c.svg",
+    "static/media/bgpatternintrorightdesktop.svg": "/Insure-Landing-page/static/media/bgpatternintrorightdesktop.0c130b3f008bf9eb1d1b204d6bdd53e0.svg",
+    "static/media/bgpatternfooterdesktop.svg": "/Insure-Landing-page/static/media/bgpatternfooterdesktop.700c39ea607592bfacaf790991a07f0b.svg",
+    "static/media/bgpatternfootermobile.svg": "/Insure-Landing-page/static/media/bgpatternfootermobile.9f048cf0d8710a041f70534fbc93ed7a.svg",
+    "static/media/bgpatternhowweworkmobile.svg": "/Insure-Landing-page/static/media/bgpatternhowweworkmobile.96cd9d0635dc0b4420227ebc8668096d.svg",
+    "static/media/bgpatternintroleftmobile.svg": "/Insure-Landing-page/static/media/bgpatternintroleftmobile.111709ef92e6f76465a94048f9c12fad.svg",
+    "static/media/bgpatternintrorightmobile.svg": "/Insure-Landing-page/static/media/bgpatternintrorightmobile.0354e57129409ea983cd642c14acfb82.svg",
+    "static/media/iconaffordableprices.svg": "/Insure-Landing-page/static/media/iconaffordableprices.a14b80772734da267900f7318cf981cc.svg",
+    "static/media/iconinstagram.svg": "/Insure-Landing-page/static/media/iconinstagram.46cfe17c3109f3bd2460963bc5beb553.svg",
+    "static/media/iconpinterest.svg": "/Insure-Landing-page/static/media/iconpinterest.5b02655f8f80d07884a7ed52397ff073.svg",
+    "static/media/iconpeoplefirst.svg": "/Insure-Landing-page/static/media/iconpeoplefirst.d7caeec6d85bd1e295394236448c7dc9.svg",
+    "static/media/icontwitter.svg": "/Insure-Landing-page/static/media/icontwitter.5e850eb31e4bad3bc4bf26b14b0cdd7f.svg",
+    "index.html": "/Insure-Landing-page/index.html",
+    "static/media/iconfacebook.svg": "/Insure-Landing-page/static/media/iconfacebook.4333c44571bee8e7f461b2fdaed6a6c0.svg",
+    "static/media/iconsnappyprocess.svg": "/Insure-Landing-page/static/media/iconsnappyprocess.eea918825472aa9c0993c85ced5522e7.svg",
+    "static/media/close.svg": "/Insure-Landing-page/static/media/close.f964824b48f9414b2ad2da1c4817ec5f.svg",
+    "static/media/hamburger.svg": "/Insure-Landing-page/static/media/hamburger.d550a648e0286cb7dddf1b1c8fc23d17.svg",
+    "main.39c2a4de.css.map": "/Insure-Landing-page/static/css/main.39c2a4de.css.map",
+    "main.b4811422.js.map": "/Insure-Landing-page/static/js/main.b4811422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c2a4de.css",
+    "static/js/main.b4811422.js"
+  ]
+}
